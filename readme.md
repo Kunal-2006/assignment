@@ -5,7 +5,7 @@ Lifo is better sequence since during the lastest update is needed and according 
 This helps to edit the lof when there is an emergency which has occurred outside the knowledge of the coder.
 
 
-#q-33
+#q-3#
 Digger is in double linked list so it can be used for inspect the status in both back and forth format if its arm is crushed.
 
 #q-4#
